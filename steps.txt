@@ -1,0 +1,4 @@
+1- install polars 
+2- read the parquet file
+3- make analyis using polars 
+4- save to sql table using write_database method
